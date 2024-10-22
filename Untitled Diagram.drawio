@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z8Yh2GZpVSMbXNt8EOp2-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="210" width="660" height="70" as="geometry" />
+          <mxGeometry x="110" y="210" width="660" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z8Yh2GZpVSMbXNt8EOp2-20" value="Self Created" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="214" y="220" width="90" height="30" as="geometry" />
