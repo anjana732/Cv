@@ -818,10 +818,10 @@
           <mxGeometry x="551.25" y="474" width="302.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DhZaMOdkmi4t-8yNSAH4-51" value="One Financial Year" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="440" width="120" height="30" as="geometry" />
+          <mxGeometry x="570" y="444" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-52" value="Two Financial Year" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="712.5" y="440" width="120" height="30" as="geometry" />
+        <mxCell id="DhZaMOdkmi4t-8yNSAH4-52" value="More than one Financial Year" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="444" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ts6uGhSK0_6jQgIw3zlU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhZaMOdkmi4t-8yNSAH4-53" target="DhZaMOdkmi4t-8yNSAH4-67">
           <mxGeometry relative="1" as="geometry" />
@@ -876,62 +876,8 @@
         <mxCell id="DhZaMOdkmi4t-8yNSAH4-77" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="667.5" y="675" width="60" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhZaMOdkmi4t-8yNSAH4-78" target="DhZaMOdkmi4t-8yNSAH4-103">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DhZaMOdkmi4t-8yNSAH4-78" value="Create Invoice for current Financial Year" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="795" y="500" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="844.5" y="550" as="sourcePoint" />
-            <mxPoint x="845" y="585" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhZaMOdkmi4t-8yNSAH4-92" target="DhZaMOdkmi4t-8yNSAH4-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-92" value="Delete&amp;nbsp;&lt;div&gt;Invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="807.5" y="583" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-93" value="Goes for Approval to Department Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="782.5" y="648" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhZaMOdkmi4t-8yNSAH4-95" target="DhZaMOdkmi4t-8yNSAH4-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-95" value="Deletion&amp;nbsp;&lt;div&gt;Approved&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="792.5" y="728" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-96" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="837.5" y="808" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-97" value="&lt;div&gt;Invoice&lt;/div&gt;Exists" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="807.5" y="838" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="842.5" y="808" as="sourcePoint" />
-            <mxPoint x="842.5" y="838" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-99" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="895" y="738" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DhZaMOdkmi4t-8yNSAH4-93" target="DhZaMOdkmi4t-8yNSAH4-95">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="843" y="708" as="sourcePoint" />
-            <mxPoint x="844.5" y="728" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhZaMOdkmi4t-8yNSAH4-102" target="DhZaMOdkmi4t-8yNSAH4-103">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-102" value="&lt;div&gt;Invoice&lt;/div&gt;&lt;div&gt;Deleted&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="945" y="748" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DhZaMOdkmi4t-8yNSAH4-103" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="668" width="60" height="36" as="geometry" />
+          <mxGeometry x="720" y="520" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DhZaMOdkmi4t-8yNSAH4-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DhZaMOdkmi4t-8yNSAH4-117" target="DhZaMOdkmi4t-8yNSAH4-119">
           <mxGeometry relative="1" as="geometry" />
@@ -1005,6 +951,54 @@
         </mxCell>
         <mxCell id="Ts6uGhSK0_6jQgIw3zlU-31" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1060" y="175" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=south;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="781.25" y="490" width="142.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-37" value="Remaining Invoice created next financial year" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="520" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="765" y="570" width="176.25" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ts6uGhSK0_6jQgIw3zlU-56" target="Ts6uGhSK0_6jQgIw3zlU-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-56" value="Delete&amp;nbsp;&lt;div&gt;Invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="815" y="612.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-57" value="Goes for Approval to Department Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="677.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ts6uGhSK0_6jQgIw3zlU-59" target="Ts6uGhSK0_6jQgIw3zlU-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-59" value="Deletion&amp;nbsp;&lt;div&gt;Approved&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="800" y="757.5" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-60" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="845" y="837.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-61" value="&lt;div&gt;Invoice&lt;/div&gt;Exists" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="815" y="867.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="837.5" as="sourcePoint" />
+            <mxPoint x="850" y="867.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-63" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="902.5" y="767.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ts6uGhSK0_6jQgIw3zlU-57" target="Ts6uGhSK0_6jQgIw3zlU-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850.5" y="737.5" as="sourcePoint" />
+            <mxPoint x="852" y="757.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ts6uGhSK0_6jQgIw3zlU-66" value="&lt;div&gt;Invoice&lt;/div&gt;&lt;div&gt;Deleted&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="952.5" y="777.5" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
